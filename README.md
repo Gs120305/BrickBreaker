@@ -22,6 +22,13 @@ This project was created for learning purposes and as a fun side project.
 
 ---
 
+## 📷 Screenshot
+![Gameplay Screenshot](screenshot1.png)
+## 📷 Screenshot
+![Gameover Screenshot](screenshot2.png)
+
+
+
 ## 🚀 How to Run  
 1. Clone the repository  
    ```bash
